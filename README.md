@@ -49,9 +49,9 @@ cargo run
 
 Example usage with a custom directory:
     
-    ```bash
-    cargo run -- "custom_screenshots"
-    ```
+```bash
+cargo run -- "custom_screenshots"
+```
 
 ## This project is licensed under the MIT License - see the LICENSE file for details.
 
