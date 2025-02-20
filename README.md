@@ -41,7 +41,10 @@ A simple Rust program that listens for the "PrintScreen" key and captures screen
 
 ### Run the program:
 
-You can run the program with the following command:
+After building the project, you can run the compiled executable from the `target/release` directory.
+
+
+You can also run the program without building it by using the following command:
 
 ```bash
 cargo run
