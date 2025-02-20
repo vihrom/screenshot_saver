@@ -28,7 +28,7 @@ A simple Rust program that listens for the "PrintScreen" key and captures screen
 2. Navigate to the project directory:
 
     ```bash
-    cd screenshot-saver
+    cd screenshot_saver
     ```
 
 3. Build the project using Cargo:
